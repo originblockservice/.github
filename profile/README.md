@@ -1,4 +1,4 @@
-# OriginBlock White paper
+# White paper
 
 ![](https://paper-attachments.dropbox.com/s_EF5AF11CEC918BCA1125FEA8F069D24C09355581899A6E5632F4AC7D730601BF_1658663367430_logo.png)
 
