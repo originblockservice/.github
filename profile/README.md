@@ -27,13 +27,6 @@ These a subset of our ever growing feature list
 
 
 
-## Pricing
-----------
-
-.2 **ETH** for the first 30 days and .1 **ETH** per renewal
-
-
-
 ## Roadmap
 ----------
 
